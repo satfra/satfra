@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a PhD student in high-energy theoretical physics at Heidelberg University.
-Mainly, I'm interested in the application of the functional Renormalisation Group to QCD and Yang-Mills theories.
+I'm a PostDoc in high-energy theoretical physics at Bielefeld University.
+I'm interested in the application of the functional Renormalisation Group to QCD and Yang-Mills theories, as well as real-time simulations of gauge theories using classical statistical methods and tensor networs.
 
 Have a look at my [INSPIRE](https://inspirehep.net/authors/2629259) and [ORCID](https://orcid.org/0000-0003-1744-9456) profiles!
 
