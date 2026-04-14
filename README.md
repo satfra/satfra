@@ -7,7 +7,7 @@ Have a look at my [INSPIRE](https://inspirehep.net/authors/2629259) and [ORCID](
 
 If you work on functional calculations, you may be also interested in my libraries
 
-[![DiFfRG](https://img.shields.io/badge/DiFfRG-1f1f1f?style=for-the-badge&logo=github)](https://github.com/satfra/DiFfRG)
+[![DiFfRG](https://img.shields.io/badge/DiFfRG-1f1f1f?style=for-the-badge&logo=github)](https://github.com/satfra/DiFfRG_current)
 [![TensorBases](https://img.shields.io/badge/TensorBases-bb1a1a?style=for-the-badge&logo=github)](https://github.com/satfra/TensorBases)
 [![FunKit](https://img.shields.io/badge/FunKit-ff6606?style=for-the-badge&logo=github)](https://github.com/satfra/FunKit)
 
